@@ -7,7 +7,6 @@
 ## Running Environment 
 
 ```
-  
      - Android Studio 
      - Android emulators (API29)
 ```
