@@ -133,7 +133,7 @@ public class MainActivity extends AppCompatActivity {
             webView.setLayerType(View.LAYER_TYPE_SOFTWARE, null);
         }
         webView.setWebViewClient(new Callback());
-        webView.loadUrl("file:///android_asset/www/Capstone.html"); // 파일이 아닌 서버주소로 입력.
+        webView.loadUrl("file:///android_asset/www/Capstone.html"); // 파일이 아닌 서버주소로 입력
         webView.setWebChromeClient(new WebChromeClient() {
 
             private File createImageFile() throws IOException {
