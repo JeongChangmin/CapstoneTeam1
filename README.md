@@ -6,6 +6,7 @@
 
 ## Running Environment 
 
+
 ```
      - Android Studio 
      - Android emulators (API29)
@@ -13,6 +14,8 @@
   
   
 ## ScreenShot
+
+
   <img src=https://user-images.githubusercontent.com/39665697/85204356-edffb280-b34e-11ea-86ea-5df342e4c458.JPG width="30%"/> 
 
 
