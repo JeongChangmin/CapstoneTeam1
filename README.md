@@ -14,6 +14,6 @@
 ```
   2. 서버
 
-  <img src=https://user-images.githubusercontent.com/39665697/85204149-66657400-b34d-11ea-842b-6f95cc8f790b.jpg width="40%"/> 
+  <img src=https://user-images.githubusercontent.com/39665697/85204149-66657400-b34d-11ea-842b-6f95cc8f790b.jpg width="70%"/> 
 
 
